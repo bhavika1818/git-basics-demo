@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 updated: added new features
+=======
+feauture: implement user login functionality with authentication
+>>>>>>> fea-update
